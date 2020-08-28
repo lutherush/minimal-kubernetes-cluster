@@ -7,5 +7,5 @@
 
 - name: Clone applications
   git:
-    repo: 'https://github.com/lutherus/minimal-kubernetes-cluster.git'
+    repo: 'https://github.com/lutherush/minimal-kubernetes-cluster.git'
     dest: /usr/local/share/cluster
